@@ -23,7 +23,7 @@
   "bugs": {
     "url": "https://github.com/toddpla/spawn/issues"
   },
-  "homepage": "https://github.com/toddpla/spawn#readme",
+  "homepage": "https://toddpla.github.io/spawn/",
   "devDependencies": {
     "jest": "^24.7.1"
   }
