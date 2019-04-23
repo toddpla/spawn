@@ -1,0 +1,30 @@
+{
+  "name": "@toddpla/spawn",
+  "version": "0.0.0",
+  "description": "Tool for recursively creating children classes.",
+  "main": "./lib/spawn.js",
+  "files": [
+    "/lib"
+  ],
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/toddpla/spawn.git"
+  },
+  "keywords": [
+    "spawn",
+    "inheritance",
+    "class"
+  ],
+  "author": "Todd Langford-Archer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/toddpla/spawn/issues"
+  },
+  "homepage": "https://github.com/toddpla/spawn#readme",
+  "devDependencies": {
+    "jest": "^24.7.1"
+  }
+}
