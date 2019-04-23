@@ -1,5 +1,5 @@
 {
-  "name": "@toddpla/spawn",
+  "name": "class-spawn",
   "version": "0.0.0",
   "description": "Tool for recursively creating children classes.",
   "main": "./lib/spawn.js",

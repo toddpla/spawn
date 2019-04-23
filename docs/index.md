@@ -3,13 +3,13 @@
 ## Installation
 
 ```
-npm i @toddpla/spawn
+npm i class-spawn
 ```
 
 ## Usage
 
 ```js
-const spawn = require('@toddpla/spawn');
+const spawn = require('class-spawn');
 
 class Parent { };
 
@@ -41,7 +41,7 @@ Parameters:
 - instanceAttributes - `object`
 #### Example
 ```js
-const spawn = require('@toddpla/spawn');
+const spawn = require('class-spawn');
 
 class Parent {
     constructor(arg) {
